@@ -1,0 +1,26 @@
+input {
+	background-color: #eee;
+	border: none;
+	padding: 12px 15px;
+	margin: 8px 0;
+	width: 100%;
+}
+
+textarea{
+    background-color: #eee;
+	border: none;
+	padding: 12px 15px;
+	margin: 8px 0;
+	width: 100%;
+}
+
+label{
+    text-align: left;
+}
+
+.btn{
+    width: 60%;
+    background-color:rgb(118, 118, 252);
+    color: #FFF;
+    font-weight: 700;
+}
